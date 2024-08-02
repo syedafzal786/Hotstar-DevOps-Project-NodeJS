@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: 891377235223.dkr.ecr.ap-south-1.amazonaws.com/syed:4891377235223.dkr.ecr.ap-south-1.amazonaws.com/syed:3
+        image: 891377235223.dkr.ecr.ap-south-1.amazonaws.com/syed:5891377235223.dkr.ecr.ap-south-1.amazonaws.com/syed:4891377235223.dkr.ecr.ap-south-1.amazonaws.com/syed:3
         imagePullPolicy: "Always"
         ports:
         - containerPort: 3000  # Port your application listens on
